@@ -9,17 +9,16 @@ Réalisation d’une carte interactive de la Tunisie : affichage des régions ou
 ## Fonctionnalités
 
 - Carte de la Tunisie interactive
-- [Ex. : Clic sur une région pour afficher des infos]
-- [Ex. : Zoom, légende, etc.]
+-  Clic sur une région pour afficher des infos
 
 ## Technologies utilisées
 
-- [Ex. : HTML, CSS, JavaScript ; ou bibliothèque comme Leaflet, OpenStreetMap, etc.]
+- HTML, CSS, JavaScript
 
 ## Installation / Lancement
 
 1. Cloner le dépôt : `git clone https://github.com/SyrineBelkhiria/carte-tunisie.git`
-2. [Ex. : Ouvrir index.html dans un navigateur ; ou lancer un serveur local si besoin]
+2.  Ouvrir index.html dans un navigateur ; ou lancer un serveur local si besoin
 
 ## Auteur
 
