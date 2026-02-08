@@ -1,4 +1,3 @@
-```markdown
 # Carte interactive de la Tunisie
 
 Projet académique — IHEC Carthage, 2ème année Business Intelligence.
@@ -25,4 +24,4 @@ Réalisation d’une carte interactive de la Tunisie : affichage des régions ou
 ## Auteur
 
 Syrine Belkhiria — IHEC Carthage, 2ème année BI
-```
+
